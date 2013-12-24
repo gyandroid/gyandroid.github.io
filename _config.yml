@@ -1,20 +1,20 @@
-title:            gyan radhakrishnan
-tagline:          learning constantly and draining karma
-description:      contains my tech and life experiences.
+title:            Site Title
+tagline:          A short tagline
+description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://www.gyan404.com
+url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Gyan Radhakrishnan
+  name:           Your Name
   avatar:         bio-photo.jpg
-  bio:            "Student"
-  email:          gyan.radhakrishnan@gmail.com
+  bio:            "Describe your self."
+  email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        http://twitter.com/gyandroid
+  twitter:        
   facebook:       
-  github:         http://github.com/gyandroid
-  linkedin:       http://linkedin.com/gyandroid
+  github:         
+  linkedin:       
   instagram:      
   lastfm:         
   tumblr:         
